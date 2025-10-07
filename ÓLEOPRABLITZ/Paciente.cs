@@ -24,7 +24,7 @@ namespace ÓLEOPRABLITZ
             Console.WriteLine("O paciente é prioritário? Prioridade 1: Urgencia, Prioridade 2: Emergencia, Prioridade 3: Não-Prioritário");
             string Prioridade = Console.ReadLine();
 
-            Console.WriteLine($"Cadastro feito! nome = {Nome}, idade = {Idade}, deficiencia = {Deficiencia}, prioridade = {Prioridade}");
+            Console.WriteLine("Cadastro feito! nome = {Nome}, idade = {Idade}, deficiencia = {Deficiencia}, prioridade = {Prioridade}");
         }
     }
 }
