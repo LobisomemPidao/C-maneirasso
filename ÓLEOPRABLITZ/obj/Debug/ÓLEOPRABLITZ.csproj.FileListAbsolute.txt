@@ -1,0 +1,8 @@
+C:\Users\lab1070\source\repos\ConsoleApp1\ÓLEOPRABLITZ\ÓLEOPRABLITZ\bin\Debug\ÓLEOPRABLITZ.exe.config
+C:\Users\lab1070\source\repos\ConsoleApp1\ÓLEOPRABLITZ\ÓLEOPRABLITZ\bin\Debug\ÓLEOPRABLITZ.exe
+C:\Users\lab1070\source\repos\ConsoleApp1\ÓLEOPRABLITZ\ÓLEOPRABLITZ\bin\Debug\ÓLEOPRABLITZ.pdb
+C:\Users\lab1070\source\repos\ConsoleApp1\ÓLEOPRABLITZ\ÓLEOPRABLITZ\obj\Debug\ÓLEOPRABLITZ.csproj.AssemblyReference.cache
+C:\Users\lab1070\source\repos\ConsoleApp1\ÓLEOPRABLITZ\ÓLEOPRABLITZ\obj\Debug\ÓLEOPRABLITZ.csproj.CoreCompileInputs.cache
+C:\Users\lab1070\source\repos\ConsoleApp1\ÓLEOPRABLITZ\ÓLEOPRABLITZ\obj\Debug\ÓLEOPRABLITZ.exe
+C:\Users\lab1070\source\repos\ConsoleApp1\ÓLEOPRABLITZ\ÓLEOPRABLITZ\obj\Debug\ÓLEOPRABLITZ.pdb
+C:\Users\lab1070\source\repos\ConsoleApp1\ÓLEOPRABLITZ\ÓLEOPRABLITZ\obj\Debug\ÓLEOPRABLITZ.exe.config
